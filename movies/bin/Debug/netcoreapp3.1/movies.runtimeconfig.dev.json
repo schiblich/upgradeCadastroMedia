@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/theoracle/.dotnet/store/|arch|/|tfm|",
+      "/home/theoracle/.nuget/packages"
+    ]
+  }
+}
